@@ -56,3 +56,10 @@ body {
     font-weight: 600;
     border-radius: 8px;
 }
+
+.course-card__badges {
+    display: flex;
+    justify-content: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+}
