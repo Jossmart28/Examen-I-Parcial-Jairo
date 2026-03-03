@@ -28,3 +28,16 @@ body {
 .course-card__footer {
     padding: 1.5rem;
 }
+
+.course-card__title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: #1f2937;
+}
+
+.course-card__teacher {
+    font-size: 0.95rem;
+    color: #6b7280;
+    margin-bottom: 1.2rem;
+}
