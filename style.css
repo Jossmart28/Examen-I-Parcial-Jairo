@@ -17,8 +17,14 @@ body {
 }
 
 .course-card__header {
-    height: 180px;
+    padding: 1.5rem;
+    background-color: #ffffff;
+}
+
+.course-card__image {
+    height: 160px;
     background: linear-gradient(135deg, #1e3c72, #2a5298);
+    border-radius: 12px;
 }
 
 .course-card__body {
